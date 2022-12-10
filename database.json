@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Emily Nelson",
+      "address": "4808 Address Rd. Nashville, TN 37211",
+      "phoneNumber": "123-456-7890",
+      "email": "emilynelson@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Andrew Nelson",
+      "address": "1234 Other Address Dr. Nashville, TN 37211",
+      "phoneNumber": "987-654-3210",
+      "email": "andrewnelson@aol.com"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "name": "Maverick",
+      "age": 4,
+      "birthday": "09/10/2018"
+    },
+    {
+      "id": 2,
+      "name": "Adaline",
+      "age": 4,
+      "birthday": "09/10/2018"
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "name": "Gymnastics",
+      "location": "Smyrna",
+      "date": "2022-12-12",
+      "startTime": "17:45",
+      "endTime": "18:45",
+      "kidId": 2,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Swimming - to test Edit final",
+      "location": "Brentwood",
+      "date": "2022-12-12",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "kidId": 1,
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "name": "Christmas Pagaent",
+      "location": "Daycare",
+      "date": "2022-12-12",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "kidId": 2,
+      "userId": 1
+    },
+    {
+      "name": "a thing to put",
+      "location": "else",
+      "date": "2022-12-14",
+      "startTime": "18:20",
+      "endTime": "19:20",
+      "kidId": 2,
+      "id": 6,
+      "userId": 2
+    },
+    {
+      "name": "blah",
+      "location": "blah blah",
+      "date": "2022-12-21",
+      "startTime": "18:08",
+      "endTime": "20:08",
+      "kidId": 1,
+      "id": 8,
+      "userId": 2
+    },
+    {
+      "name": "Maverick's Thing",
+      "location": "over the rainbow",
+      "date": "2023-02-04",
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "kidId": 1,
+      "id": 9,
+      "userId": 1
+    },
+    {
+      "name": "something to add",
+      "location": "home",
+      "date": "2022-12-08",
+      "startTime": "19:24",
+      "endTime": "20:24",
+      "kidId": 2,
+      "id": 10,
+      "userId": 2
+    },
+    {
+      "name": "adding something",
+      "location": "here",
+      "date": "2022-12-30",
+      "startTime": "21:36",
+      "endTime": "12:36",
+      "kidId": 1,
+      "userId": 1,
+      "id": 11
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "startDate": "2022-12-20",
+      "endDate": "2022-12-27",
+      "startTime": "15:00",
+      "endTime": "10:00",
+      "notes": "Christmas Vacation - Louisiana Trip - success",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "startDate": "2023-04-14",
+      "endDate": "2023-04-18",
+      "startTime": "15:00",
+      "endTime": "15:00",
+      "notes": "Spring Break - going to Florida",
+      "userId": 2
+    },
+    {
+      "startDate": "2022-12-19",
+      "endDate": "2022-12-23",
+      "startTime": "11:39",
+      "endTime": "13:45",
+      "notes": "Adding to test view",
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "date": "",
+      "uploadURL": "",
+      "kidId": 1
+    },
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "date": "",
+      "uploadURL": "",
+      "kidId": 2
+    }
+  ],
+  "uploads": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "description": "",
+      "imageURL": ""
+    }
+  ]
+}
