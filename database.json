@@ -42,7 +42,7 @@
     },
     {
       "id": 2,
-      "name": "Swimming - to test Edit final",
+      "name": "Swimming - to test Edit final!",
       "location": "Brentwood",
       "date": "2022-12-12",
       "startTime": "18:00",
@@ -81,16 +81,6 @@
       "userId": 2
     },
     {
-      "name": "Maverick's Thing",
-      "location": "over the rainbow",
-      "date": "2023-02-04",
-      "startTime": "08:00",
-      "endTime": "10:00",
-      "kidId": 1,
-      "id": 9,
-      "userId": 1
-    },
-    {
       "name": "something to add",
       "location": "home",
       "date": "2022-12-08",
@@ -109,18 +99,39 @@
       "kidId": 1,
       "userId": 1,
       "id": 11
+    },
+    {
+      "name": "Testing for MVP",
+      "location": "My computer",
+      "date": "2022-12-15",
+      "startTime": "02:35",
+      "endTime": "03:35",
+      "kidId": 1,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "name": "test",
+      "location": "completion needed",
+      "date": "2022-11-11",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kidId": 2,
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "name": "Testing User 2 Add",
+      "location": "Here",
+      "date": "2022-12-13",
+      "startTime": "02:52",
+      "endTime": "04:52",
+      "kidId": 1,
+      "userId": 2,
+      "id": 15
     }
   ],
   "schedules": [
-    {
-      "id": 1,
-      "startDate": "2022-12-20",
-      "endDate": "2022-12-27",
-      "startTime": "15:00",
-      "endTime": "10:00",
-      "notes": "Christmas Vacation - Louisiana Trip - success",
-      "userId": 1
-    },
     {
       "id": 2,
       "startDate": "2023-04-14",
@@ -138,6 +149,15 @@
       "notes": "Adding to test view",
       "userId": 1,
       "id": 3
+    },
+    {
+      "startDate": "2022-12-19",
+      "endDate": "2022-12-29",
+      "startTime": "16:10",
+      "endTime": "18:10",
+      "notes": "Travel to Michigan",
+      "userId": 2,
+      "id": 4
     }
   ],
   "records": [
